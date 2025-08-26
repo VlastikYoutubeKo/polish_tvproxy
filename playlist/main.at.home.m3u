@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-name="TVP1" tvg-logo="https://telewizjada.cc/logo/tvp1.png" group-title="Ogólnotematyczne",TVP1
+https://pltv.uzis-room.ch/play/0
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-name="Canal+ Sport" tvg-logo="https://telewizjada.cc/logo/canalsport.png" group-title="Sportowe",Canal+ Sport
+https://pltv.uzis-room.ch/play/1
+#EXTINF:-1 tvg-name="Canal+ Live 1" tvg-logo="https://telewizjada.cc/logo/canalpluslive1.png" group-title="Sportowe - Specjalne",Canal+ Live 1
+https://pltv.uzis-room.ch/play/2
+#EXTINF:-1 tvg-id="TVN.24.pl" tvg-name="TVN 24" tvg-logo="https://telewizjada.cc/logo/tvn24.png" group-title="Informacyjne",TVN 24
+https://pltv.uzis-room.ch/play/3
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-name="Canal+ Sport 2" tvg-logo="https://telewizjada.cc/logo/canalsport2.png" group-title="Sportowe",Canal+ Sport 2
+https://pltv.uzis-room.ch/play/4
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.pl" tvg-name="Canal+ Sport 3" tvg-logo="https://telewizjada.cc/logo/canalsport3.png" group-title="Sportowe",Canal+ Sport 3
+https://pltv.uzis-room.ch/play/5
+#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-name="Canal+ Sport 4" tvg-logo="https://telewizjada.cc/logo/canalsport4.png" group-title="Sportowe",Canal+ Sport 4
+https://pltv.uzis-room.ch/play/6
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-name="Canal+ Sport 5" tvg-logo="https://telewizjada.cc/logo/canalsport5.png" group-title="Sportowe",Canal+ Sport 5
+https://pltv.uzis-room.ch/play/7
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.pl" tvg-name="Canal+ Extra 1" tvg-logo="https://telewizjada.cc/logo/canalextra1.png" group-title="Sportowe",Canal+ Extra 1
+https://pltv.uzis-room.ch/play/8
+#EXTINF:-1 tvg-name="Canal+ Live 2" tvg-logo="https://telewizjada.cc/logo/canalpluslive2.png" group-title="Sportowe - Specjalne",Canal+ Live 2
+https://pltv.uzis-room.ch/play/9
+#EXTINF:-1 tvg-name="Canal+ Live 3" tvg-logo="https://telewizjada.cc/logo/canalpluslive3.png" group-title="Sportowe - Specjalne",Canal+ Live 3
+https://pltv.uzis-room.ch/play/10
+#EXTINF:-1 tvg-name="Canal+ Live 4" tvg-logo="https://telewizjada.cc/logo/canalpluslive4.png" group-title="Sportowe - Specjalne",Canal+ Live 4
+https://pltv.uzis-room.ch/play/11
+#EXTINF:-1 tvg-name="DAZN Event 1" tvg-logo="https://telewizjada.cc/logo/dazn.png" group-title="Sportowe - Specjalne",DAZN Event 1
+https://pltv.uzis-room.ch/play/12
+#EXTINF:-1 tvg-name="DAZN Event 2" tvg-logo="https://telewizjada.cc/logo/dazn2.png" group-title="Sportowe - Specjalne",DAZN Event 2
+https://pltv.uzis-room.ch/play/13
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://telewizjada.cc/logo/elevensports1.png" group-title="Sportowe",Eleven Sports 1
+https://pltv.uzis-room.ch/play/14
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2" tvg-logo="https://telewizjada.cc/logo/elevensports2.png" group-title="Sportowe",Eleven Sports 2
+https://pltv.uzis-room.ch/play/15
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3" tvg-logo="https://telewizjada.cc/logo/elevensports3.png" group-title="Sportowe",Eleven Sports 3
+https://pltv.uzis-room.ch/play/16
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 4" tvg-logo="https://telewizjada.cc/logo/elevensports4.png" group-title="Sportowe",Eleven Sports 4
+https://pltv.uzis-room.ch/play/17
+#EXTINF:-1 tvg-id="Eurosport.1.pl" tvg-name="Eurosport 1" tvg-logo="https://telewizjada.cc/logo/eurosport1.png" group-title="Sportowe",Eurosport 1
+https://pltv.uzis-room.ch/play/18
+#EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-name="Eurosport 2" tvg-logo="https://telewizjada.cc/logo/eurosport2.png" group-title="Sportowe",Eurosport 2
+https://pltv.uzis-room.ch/play/19
+#EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-name="TVP Sport" tvg-logo="https://telewizjada.cc/logo/tvpsport.png" group-title="Sportowe",TVP Sport
+https://pltv.uzis-room.ch/play/20
+#EXTINF:-1 tvg-name="Polsat Sport 1" tvg-logo="https://telewizjada.cc/logo/polsatsport1.png" group-title="Sportowe",Polsat Sport 1
+https://pltv.uzis-room.ch/play/21
+#EXTINF:-1 tvg-name="Polsat Sport 2" tvg-logo="https://telewizjada.cc/logo/polsatsport2.png" group-title="Sportowe",Polsat Sport 2
+https://pltv.uzis-room.ch/play/22
+#EXTINF:-1 tvg-name="Polsat Sport 3" tvg-logo="https://telewizjada.cc/logo/polsatsport3.png" group-title="Sportowe",Polsat Sport 3
+https://pltv.uzis-room.ch/play/23
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.pl" tvg-name="Polsat Sport Fight" tvg-logo="https://telewizjada.cc/logo/polsatsportfight.png" group-title="Sportowe",Polsat Sport Fight
+https://pltv.uzis-room.ch/play/24
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium1.png" group-title="Sportowe",Polsat Sport Premium 1
+https://pltv.uzis-room.ch/play/25
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium2.png" group-title="Sportowe",Polsat Sport Premium 2
+https://pltv.uzis-room.ch/play/26
+#EXTINF:-1 tvg-id="Sportklub.pl" tvg-name="Sportklub" tvg-logo="https://telewizjada.cc/logo/sportklub.png" group-title="Sportowe",Sportklub
+https://pltv.uzis-room.ch/play/27
+#EXTINF:-1 tvg-id="Fightklub.pl" tvg-name="Fightklub" tvg-logo="https://epg.ovh/logo/FIGHTKLUB.png" group-title="Sportowe",Fightklub
+https://pltv.uzis-room.ch/play/28
+#EXTINF:-1 tvg-name="Golfzone" tvg-logo="https://telewizjada.cc/logo/golfzone.png" group-title="Sportowe",Golfzone
+https://pltv.uzis-room.ch/play/29
+#EXTINF:-1 tvg-name="Extreme Sports" tvg-logo="https://telewizjada.cc/logo/extremesports.png" group-title="Sportowe",Extreme Sports
+https://pltv.uzis-room.ch/play/30
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-name="Fightbox" tvg-logo="https://telewizjada.cc/logo/fightbox.png" group-title="Sportowe",Fightbox
+https://pltv.uzis-room.ch/play/31
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="Motowizja" tvg-logo="https://telewizjada.cc/logo/motowizja.png" group-title="Sportowe",Motowizja
+https://pltv.uzis-room.ch/play/32
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.3.pl" tvg-name="Polsat Sport Premium 3" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium3.png" group-title="Sportowe - Specjalne",Polsat Sport Premium 3
+https://pltv.uzis-room.ch/play/33
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.4.pl" tvg-name="Polsat Sport Premium 4" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium4.png" group-title="Sportowe - Specjalne",Polsat Sport Premium 4
+https://pltv.uzis-room.ch/play/34
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.5.pl" tvg-name="Polsat Sport Premium 5" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium5.png" group-title="Sportowe - Specjalne",Polsat Sport Premium 5
+https://pltv.uzis-room.ch/play/35
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.6.pl" tvg-name="Polsat Sport Premium 6" tvg-logo="https://telewizjada.cc/logo/polsatsportpremium6.png" group-title="Sportowe - Specjalne",Polsat Sport Premium 6
+https://pltv.uzis-room.ch/play/36
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.pl" tvg-name="Canal+ Extra 2" tvg-logo="https://telewizjada.cc/logo/canalextra2.png" group-title="Sportowe - Specjalne",Canal+ Extra 2
+https://pltv.uzis-room.ch/play/37
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.3.HD.pl" tvg-name="Canal+ Extra 3" tvg-logo="https://telewizjada.cc/logo/canalextra3.png" group-title="Sportowe - Specjalne",Canal+ Extra 3
+https://pltv.uzis-room.ch/play/38
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.4.HD.pl" tvg-name="Canal+ Extra 4" tvg-logo="https://telewizjada.cc/logo/canalextra4.png" group-title="Sportowe - Specjalne",Canal+ Extra 4
+https://pltv.uzis-room.ch/play/39
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.5.HD.pl" tvg-name="Canal+ Extra 5" tvg-logo="https://telewizjada.cc/logo/canalextra5.png" group-title="Sportowe - Specjalne",Canal+ Extra 5
+https://pltv.uzis-room.ch/play/40
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.6.HD.pl" tvg-name="Canal+ Extra 6" tvg-logo="https://telewizjada.cc/logo/canalextra6.png" group-title="Sportowe - Specjalne",Canal+ Extra 6
+https://pltv.uzis-room.ch/play/41
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.7.HD.pl" tvg-name="Canal+ Extra 7" tvg-logo="https://telewizjada.cc/logo/canalextra7.png" group-title="Sportowe - Specjalne",Canal+ Extra 7
+https://pltv.uzis-room.ch/play/42
+#EXTINF:-1 tvg-name="Canal+ Now" tvg-logo="https://telewizjada.cc/logo/canalnow.png" group-title="Sportowe - Specjalne",Canal+ Now
+https://pltv.uzis-room.ch/play/43
+#EXTINF:-1 tvg-name="Eurosport Extra 1" tvg-logo="https://epg.ovh/logo/Eurosport+Extra+1.png" group-title="Sportowe - Specjalne",Eurosport Extra 1
+https://pltv.uzis-room.ch/play/44
+#EXTINF:-1 tvg-name="Eurosport Extra 2" tvg-logo="https://epg.ovh/logo/Eurosport+Extra+2.png" group-title="Sportowe - Specjalne",Eurosport Extra 2
+https://pltv.uzis-room.ch/play/45
+#EXTINF:-1 tvg-name="Eurosport Extra 3" tvg-logo="https://epg.ovh/logo/Eurosport+Extra+3.png" group-title="Sportowe - Specjalne",Eurosport Extra 3
+https://pltv.uzis-room.ch/play/46
+#EXTINF:-1 tvg-name="Eurosport Extra 4" tvg-logo="https://epg.ovh/logo/Eurosport+Extra+4.png" group-title="Sportowe - Specjalne",Eurosport Extra 4
+https://pltv.uzis-room.ch/play/47
+#EXTINF:-1 tvg-name="Eurosport Extra 5" tvg-logo="https://epg.ovh/logo/Eurosport+Extra+5.png" group-title="Sportowe - Specjalne",Eurosport Extra 5
+https://pltv.uzis-room.ch/play/48
+#EXTINF:-1 tvg-name="Eleven Sports Online 1" tvg-logo="https://epg.ovh/logo/Eleven+Sports+Online+1.png" group-title="Sportowe - Specjalne",Eleven Sports Online 1
+https://pltv.uzis-room.ch/play/49
+#EXTINF:-1 tvg-name="Eleven Sports Online 2" tvg-logo="https://epg.ovh/logo/Eleven+Sports+Online+2.png" group-title="Sportowe - Specjalne",Eleven Sports Online 2
+https://pltv.uzis-room.ch/play/50
+#EXTINF:-1 tvg-name="Eleven Sports Online 3" tvg-logo="https://epg.ovh/logo/Eleven+Sports+Online+3.png" group-title="Sportowe - Specjalne",Eleven Sports Online 3
+https://pltv.uzis-room.ch/play/51
+#EXTINF:-1 tvg-id="TVN24.BiS.pl" tvg-name="TVN 24 BIS" tvg-logo="https://telewizjada.cc/logo/tvn24bis.png" group-title="Informacyjne",TVN 24 BIS
+https://pltv.uzis-room.ch/play/52
+#EXTINF:-1 tvg-id="TVP.Info.pl" tvg-name="TVP Info" tvg-logo="https://telewizjada.cc/logo/tvpinfo.png" group-title="Informacyjne",TVP Info
+https://pltv.uzis-room.ch/play/53
+#EXTINF:-1 tvg-id="Polsat.News.pl" tvg-name="Polsat News" tvg-logo="https://telewizjada.cc/logo/polsatnews.png" group-title="Informacyjne",Polsat News
+https://pltv.uzis-room.ch/play/54
+#EXTINF:-1 tvg-id="Polsat.News.2.pl" tvg-name="Polsat News 2" tvg-logo="https://telewizjada.cc/logo/polsatnews2.png" group-title="Informacyjne",Polsat News 2
+https://pltv.uzis-room.ch/play/55
+#EXTINF:-1 tvg-name="Polsat News Polityka" tvg-logo="https://telewizjada.cc/logo/polsatnewspolityka.png" group-title="Informacyjne",Polsat News Polityka
+https://pltv.uzis-room.ch/play/56
+#EXTINF:-1 tvg-id="TV.Republika.pl" tvg-name="Republika" tvg-logo="https://telewizjada.cc/logo/republika.png" group-title="Informacyjne",Republika
+https://pltv.uzis-room.ch/play/57
+#EXTINF:-1 tvg-id="TVP.2.pl" tvg-name="TVP2" tvg-logo="https://telewizjada.cc/logo/tvp2.png" group-title="Ogólnotematyczne",TVP2
+https://pltv.uzis-room.ch/play/58
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://telewizjada.cc/logo/polsat.png" group-title="Ogólnotematyczne",Polsat
+https://pltv.uzis-room.ch/play/59
+#EXTINF:-1 tvg-id="TV.4.pl" tvg-name="TV4" tvg-logo="https://telewizjada.cc/logo/tv4.png" group-title="Ogólnotematyczne",TV4
+https://pltv.uzis-room.ch/play/60
+#EXTINF:-1 tvg-id="TV.6.pl" tvg-name="TV6" tvg-logo="https://telewizjada.cc/logo/tv6.png" group-title="Ogólnotematyczne",TV6
+https://pltv.uzis-room.ch/play/61
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-name="Polsat 2" tvg-logo="https://telewizjada.cc/logo/polsat2.png" group-title="Ogólnotematyczne",Polsat 2
+https://pltv.uzis-room.ch/play/62
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="https://telewizjada.cc/logo/tvn.png" group-title="Ogólnotematyczne",TVN
+https://pltv.uzis-room.ch/play/63
+#EXTINF:-1 tvg-id="TVN.7.pl" tvg-name="TVN 7" tvg-logo="https://telewizjada.cc/logo/tvn7.png" group-title="Ogólnotematyczne",TVN 7
+https://pltv.uzis-room.ch/play/64
+#EXTINF:-1 tvg-id="TV.Puls.pl" tvg-name="TV Puls" tvg-logo="https://telewizjada.cc/logo/tvpuls.png" group-title="Ogólnotematyczne",TV Puls
+https://pltv.uzis-room.ch/play/65
+#EXTINF:-1 tvg-id="PULS.2.pl" tvg-name="TV Puls 2" tvg-logo="https://telewizjada.cc/logo/puls2.png" group-title="Ogólnotematyczne",TV Puls 2
+https://pltv.uzis-room.ch/play/66
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV" tvg-logo="https://telewizjada.cc/logo/ttv.png" group-title="Ogólnotematyczne",TTV
+https://pltv.uzis-room.ch/play/67
+#EXTINF:-1 tvg-id="iTVN.pl" tvg-name="iTVN" tvg-logo="https://telewizjada.cc/logo/itvn.png" group-title="Ogólnotematyczne",iTVN
+https://pltv.uzis-room.ch/play/68
+#EXTINF:-1 tvg-id="iTVN.Extra.International.pl" tvg-name="iTVN Extra" tvg-logo="https://telewizjada.cc/logo/itvnextra.png" group-title="Ogólnotematyczne",iTVN Extra
+https://pltv.uzis-room.ch/play/69
+#EXTINF:-1 tvg-id="Polsat.1.pl" tvg-name="Polsat 1" tvg-logo="https://telewizjada.cc/logo/polsat1.png" group-title="Ogólnotematyczne",Polsat 1
+https://pltv.uzis-room.ch/play/70
+#EXTINF:-1 tvg-id="Super.Polsat.pl" tvg-name="Super Polsat" tvg-logo="https://telewizjada.cc/logo/superpolsat.png" group-title="Ogólnotematyczne",Super Polsat
+https://pltv.uzis-room.ch/play/71
+#EXTINF:-1 tvg-id="METRO.pl" tvg-name="Metro" tvg-logo="https://telewizjada.cc/logo/metro.png" group-title="Ogólnotematyczne",Metro
+https://pltv.uzis-room.ch/play/72
+#EXTINF:-1 tvg-id="TVP.Polonia.pl" tvg-name="TVP Polonia" tvg-logo="https://telewizjada.cc/logo/tvppolonia.png" group-title="Ogólnotematyczne",TVP Polonia
+https://pltv.uzis-room.ch/play/73
+#EXTINF:-1 tvg-id="TVP.HD.pl" tvg-name="TVP HD" tvg-logo="https://telewizjada.cc/logo/tvphd.png" group-title="Ogólnotematyczne",TVP HD
+https://pltv.uzis-room.ch/play/74
+#EXTINF:-1 tvg-id="Antena.pl" tvg-name="Antena" tvg-logo="https://telewizjada.cc/logo/antena.png" group-title="Ogólnotematyczne",Antena
+https://pltv.uzis-room.ch/play/75
+#EXTINF:-1 tvg-id="Wydarzenia.24.pl" tvg-name="Wydarzenia 24" tvg-logo="https://telewizjada.cc/logo/wydarzenia24.png" group-title="Informacyjne",Wydarzenia 24
+https://pltv.uzis-room.ch/play/76
+#EXTINF:-1 tvg-id="TVP.3.pl" tvg-name="TVP 3" tvg-logo="https://telewizjada.cc/logo/tvp3.png" group-title="Informacyjne",TVP 3
+https://pltv.uzis-room.ch/play/77
+#EXTINF:-1 tvg-name="Republika Plus" tvg-logo="https://telewizjada.cc/logo/republikaplus.png" group-title="Informacyjne",Republika Plus
+https://pltv.uzis-room.ch/play/78
+#EXTINF:-1 tvg-id="News24.pl" tvg-name="News24" tvg-logo="https://telewizjada.cc/logo/news24.png" group-title="Informacyjne",News24
+https://pltv.uzis-room.ch/play/79
+#EXTINF:-1 tvg-name="wPolsce24" tvg-logo="https://telewizjada.cc/logo/wpolsce24.png" group-title="Informacyjne",wPolsce24
+https://pltv.uzis-room.ch/play/80
+#EXTINF:-1 tvg-id="TVP.World.pl" tvg-name="TVP World" tvg-logo="https://telewizjada.cc/logo/tvpworld.png" group-title="Informacyjne",TVP World
+https://pltv.uzis-room.ch/play/81
+#EXTINF:-1 tvg-id="Biznes24.HD.pl" tvg-name="Biznes 24" tvg-logo="https://telewizjada.cc/logo/biznes24.png" group-title="Informacyjne",Biznes 24
+https://pltv.uzis-room.ch/play/82
+#EXTINF:-1 tvg-id="ZOOM.TV.pl" tvg-name="Zoom" tvg-logo="https://telewizjada.cc/logo/zoom.png" group-title="Ogólnotematyczne",Zoom
+https://pltv.uzis-room.ch/play/83
+#EXTINF:-1 tvg-id="Nowa.TV.pl" tvg-name="Nowa TV" tvg-logo="https://epg.ovh/logo/NOWA+TV.png" group-title="Ogólnotematyczne",Nowa TV
+https://pltv.uzis-room.ch/play/84
+#EXTINF:-1 tvg-id="Tele.5.pl" tvg-name="Tele 5" tvg-logo="https://epg.ovh/logo/Tele+5.png" group-title="Ogólnotematyczne",Tele 5
+https://pltv.uzis-room.ch/play/85
+#EXTINF:-1 tvg-id="WP.pl" tvg-name="WP" tvg-logo="https://telewizjada.cc/logo/wp.png" group-title="Ogólnotematyczne",WP
+https://pltv.uzis-room.ch/play/86
+#EXTINF:-1 tvg-id="TV.Trwam.pl" tvg-name="Trwam" tvg-logo="https://telewizjada.cc/logo/trwam.png" group-title="Ogólnotematyczne",Trwam
+https://pltv.uzis-room.ch/play/87
+#EXTINF:-1 tvg-id="TVC.pl" tvg-name="TVC" tvg-logo="https://telewizjada.cc/logo/tvc.png" group-title="Ogólnotematyczne",TVC
+https://pltv.uzis-room.ch/play/88
+#EXTINF:-1 tvg-id="Polonia.1.pl" tvg-name="Polonia 1 HD" tvg-logo="https://telewizjada.cc/logo/polonia1.png" group-title="Ogólnotematyczne",Polonia 1 HD
+https://pltv.uzis-room.ch/play/89
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="https://telewizjada.cc/logo/tvs.png" group-title="Ogólnotematyczne",TVS
+https://pltv.uzis-room.ch/play/90
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-name="Canal+ Premium" tvg-logo="https://telewizjada.cc/logo/canalpremium.png" group-title="Filmowe",Canal+ Premium
+https://pltv.uzis-room.ch/play/91
+#EXTINF:-1 tvg-id="CANAL+.1.pl" tvg-name="Canal+ 1" tvg-logo="https://telewizjada.cc/logo/canal1.png" group-title="Filmowe",Canal+ 1
+https://pltv.uzis-room.ch/play/92
+#EXTINF:-1 tvg-id="CANAL+.Film.pl" tvg-name="Canal+ Film" tvg-logo="https://telewizjada.cc/logo/canalfilm.png" group-title="Filmowe",Canal+ Film
+https://pltv.uzis-room.ch/play/93
+#EXTINF:-1 tvg-name="Canal+ 360" tvg-logo="https://telewizjada.cc/logo/canal360.png" group-title="Filmowe",Canal+ 360
+https://pltv.uzis-room.ch/play/94
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-name="Canal+ Seriale" tvg-logo="https://telewizjada.cc/logo/canalseriale.png" group-title="Filmowe",Canal+ Seriale
+https://pltv.uzis-room.ch/play/95
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO" tvg-logo="https://telewizjada.cc/logo/hbo.png" group-title="Filmowe",HBO
+https://pltv.uzis-room.ch/play/96
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2" tvg-logo="https://telewizjada.cc/logo/hbo2.png" group-title="Filmowe",HBO 2
+https://pltv.uzis-room.ch/play/97
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3" tvg-logo="https://telewizjada.cc/logo/hbo3.png" group-title="Filmowe",HBO 3
+https://pltv.uzis-room.ch/play/98
+#EXTINF:-1 tvg-name="Filmcafe" tvg-logo="https://telewizjada.cc/logo/filmcafe.png" group-title="Filmowe",Filmcafe
+https://pltv.uzis-room.ch/play/99
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="Fox" tvg-logo="https://telewizjada.cc/logo/fox.png" group-title="Filmowe",Fox
+https://pltv.uzis-room.ch/play/100
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC" tvg-logo="https://telewizjada.cc/logo/amc.png" group-title="Filmowe",AMC
+https://pltv.uzis-room.ch/play/101
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN" tvg-logo="https://telewizjada.cc/logo/AXN.png" group-title="Filmowe",AXN
+https://pltv.uzis-room.ch/play/102
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax" tvg-logo="https://telewizjada.cc/logo/cinemax.png" group-title="Filmowe",Cinemax
+https://pltv.uzis-room.ch/play/103
+#EXTINF:-1 tvg-id="Polsat.Comedy.Central.Extra.pl" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://telewizjada.cc/logo/polsatcomedycentralextra.png" group-title="Filmowe",Polsat Comedy Central Extra
+https://pltv.uzis-room.ch/play/104
+#EXTINF:-1 tvg-id="STOPKLATKA.pl" tvg-name="Stopklatka" tvg-logo="https://telewizjada.cc/logo/stopklatka.png" group-title="Filmowe",Stopklatka
+https://pltv.uzis-room.ch/play/105
+#EXTINF:-1 tvg-id="Kino.Polska.pl" tvg-name="Kino Polska" tvg-logo="https://telewizjada.cc/logo/kinopolska.png" group-title="Filmowe",Kino Polska
+https://pltv.uzis-room.ch/play/106
+#EXTINF:-1 tvg-id="Kino.TV.pl" tvg-name="Kino TV" tvg-logo="https://telewizjada.cc/logo/kinotv.png" group-title="Filmowe",Kino TV
+https://pltv.uzis-room.ch/play/107
+#EXTINF:-1 tvg-id="FilmBox.Extra.HD.pl" tvg-name="Filmbox Extra" tvg-logo="https://telewizjada.cc/logo/filmboxextra.png" group-title="Filmowe",Filmbox Extra
+https://pltv.uzis-room.ch/play/108
+#EXTINF:-1 tvg-id="Comedy.Central.pl" tvg-name="Comedy Central" tvg-logo="https://telewizjada.cc/logo/comedycentral.png" group-title="Filmowe",Comedy Central
+https://pltv.uzis-room.ch/play/109
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="https://telewizjada.cc/logo/paramountchannel.png" group-title="Filmowe",Paramount Channel
+https://pltv.uzis-room.ch/play/110
+#EXTINF:-1 tvg-id="TVP.Kultura.pl" tvg-name="TVP Kultura" tvg-logo="https://telewizjada.cc/logo/tvpkultura.png" group-title="Ogólnotematyczne",TVP Kultura
+https://pltv.uzis-room.ch/play/111
+#EXTINF:-1 tvg-id="TVP.Kultura.2.pl" tvg-name="TVP Kultura 2" tvg-logo="https://telewizjada.cc/logo/tvpkultura2.png" group-title="Ogólnotematyczne",TVP Kultura 2
+https://pltv.uzis-room.ch/play/112
+#EXTINF:-1 tvg-id="TVP.Seriale.pl" tvg-name="TVP Seriale" tvg-logo="https://telewizjada.cc/logo/tvpseriale.png" group-title="Filmowe",TVP Seriale
+https://pltv.uzis-room.ch/play/113
+#EXTINF:-1 tvg-id="Polsat.Seriale.pl" tvg-name="Polsat Seriale" tvg-logo="https://telewizjada.cc/logo/polsatseriale.png" group-title="Filmowe",Polsat Seriale
+https://pltv.uzis-room.ch/play/114
+#EXTINF:-1 tvg-id="13.Ulica.pl" tvg-name="13 Ulica" tvg-logo="https://telewizjada.cc/logo/13ulica.png" group-title="Filmowe",13 Ulica
+https://pltv.uzis-room.ch/play/115
+#EXTINF:-1 tvg-id="Ale.kino+.pl" tvg-name="Ale Kino" tvg-logo="https://telewizjada.cc/logo/alekino.png" group-title="Filmowe",Ale Kino
+https://pltv.uzis-room.ch/play/116
+#EXTINF:-1 tvg-id="BBC.First.pl" tvg-name="BBC First" tvg-logo="https://telewizjada.cc/logo/bbcfirst.png" group-title="Filmowe",BBC First
+https://pltv.uzis-room.ch/play/117
+#EXTINF:-1 tvg-id="Bollywood.HD.pl" tvg-name="Bollywood" tvg-logo="https://epg.ovh/logo/Bollywood+HD.png" group-title="Filmowe",Bollywood
+https://pltv.uzis-room.ch/play/118
+#EXTINF:-1 tvg-id="FILMAX.pl" tvg-name="Filmax" tvg-logo="https://telewizjada.cc/logo/filmax.png" group-title="Filmowe",Filmax
+https://pltv.uzis-room.ch/play/119
+#EXTINF:-1 tvg-id="Sundance.TV.pl" tvg-name="Sundance" tvg-logo="https://telewizjada.cc/logo/sundance.png" group-title="Filmowe",Sundance
+https://pltv.uzis-room.ch/play/120
+#EXTINF:-1 tvg-id="AXN.Black.pl" tvg-name="AXN Black" tvg-logo="https://telewizjada.cc/logo/axnblack.png" group-title="Filmowe",AXN Black
+https://pltv.uzis-room.ch/play/121
+#EXTINF:-1 tvg-id="AXN.Spin.pl" tvg-name="AXN Spin" tvg-logo="https://telewizjada.cc/logo/axnspin.png" group-title="Filmowe",AXN Spin
+https://pltv.uzis-room.ch/play/122
+#EXTINF:-1 tvg-id="AXN.White.pl" tvg-name="AXN White" tvg-logo="https://telewizjada.cc/logo/axnwhite.png" group-title="Filmowe",AXN White
+https://pltv.uzis-room.ch/play/123
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2" tvg-logo="https://telewizjada.cc/logo/cinemax2.png" group-title="Filmowe",Cinemax 2
+https://pltv.uzis-room.ch/play/124
+#EXTINF:-1 tvg-id="Epic.Drama.HD.pl" tvg-name="Epic Drama" tvg-logo="https://telewizjada.cc/logo/epicdrama.png" group-title="Filmowe",Epic Drama
+https://pltv.uzis-room.ch/play/125
+#EXTINF:-1 tvg-id="FilmBox.Action.pl" tvg-name="Filmbox Action" tvg-logo="https://telewizjada.cc/logo/filmboxaction.png" group-title="Filmowe",Filmbox Action
+https://pltv.uzis-room.ch/play/126
+#EXTINF:-1 tvg-id="FilmBox.Family.pl" tvg-name="Filmbox Family" tvg-logo="https://telewizjada.cc/logo/filmboxfamily.png" group-title="Filmowe",Filmbox Family
+https://pltv.uzis-room.ch/play/127
+#EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-name="Filmbox Premium" tvg-logo="https://telewizjada.cc/logo/filmboxpremium.png" group-title="Filmowe",Filmbox Premium
+https://pltv.uzis-room.ch/play/128
+#EXTINF:-1 tvg-id="FilmBox.Arthouse.pl" tvg-name="Filmbox Arthouse" tvg-logo="https://telewizjada.cc/logo/filmboxarthouse.png" group-title="Filmowe",Filmbox Arthouse
+https://pltv.uzis-room.ch/play/129
+#EXTINF:-1 tvg-id="FOX.Comedy.pl" tvg-name="Fox Comedy" tvg-logo="https://telewizjada.cc/logo/foxcomedy.png" group-title="Filmowe",Fox Comedy
+https://pltv.uzis-room.ch/play/130
+#EXTINF:-1 tvg-id="Romance.TV.pl" tvg-name="Romance TV" tvg-logo="https://telewizjada.cc/logo/romancetv.png" group-title="Filmowe",Romance TV
+https://pltv.uzis-room.ch/play/131
+#EXTINF:-1 tvg-name="Sky Showtime 1" tvg-logo="https://epg.ovh/logo/Skyshowtime+1.png" group-title="Filmowe",Sky Showtime 1
+https://pltv.uzis-room.ch/play/132
+#EXTINF:-1 tvg-name="Sky Showtime 2" tvg-logo="https://epg.ovh/logo/Skyshowtime+2.png" group-title="Filmowe",Sky Showtime 2
+https://pltv.uzis-room.ch/play/133
+#EXTINF:-1 tvg-id="SCI.FI.pl" tvg-name="SCIFI" tvg-logo="https://telewizjada.cc/logo/scifi.png" group-title="Filmowe",SCIFI
+https://pltv.uzis-room.ch/play/134
+#EXTINF:-1 tvg-id="TVN.Fabuła.pl" tvg-name="TVN Fabula" tvg-logo="https://telewizjada.cc/logo/tvnfabula.png" group-title="Filmowe",TVN Fabula
+https://pltv.uzis-room.ch/play/135
+#EXTINF:-1 tvg-id="Warner.TV.pl" tvg-name="Warner TV" tvg-logo="https://telewizjada.cc/logo/warnertv.png" group-title="Filmowe",Warner TV
+https://pltv.uzis-room.ch/play/136
+#EXTINF:-1 tvg-name="Swiat Według Kiepskich" tvg-logo="https://telewizjada.cc/logo/swiatwedlugkiepskich.png" group-title="Filmowe - specjalne",Swiat Według Kiepskich
+https://pltv.uzis-room.ch/play/137
+#EXTINF:-1 tvg-name="Kuchenne Rewolucje" tvg-logo="https://telewizjada.cc/logo/kuchennerewolucje.png" group-title="Filmowe - specjalne",Kuchenne Rewolucje
+https://pltv.uzis-room.ch/play/138
+#EXTINF:-1 tvg-name="Miodowe Lata" tvg-logo="https://telewizjada.cc/logo/miodowelata.png" group-title="Filmowe - specjalne",Miodowe Lata
+https://pltv.uzis-room.ch/play/139
+#EXTINF:-1 tvg-name="TVN Kryminalne Online" tvg-logo="https://telewizjada.cc/logo/tvnkryminalneonline.png" group-title="Filmowe - specjalne",TVN Kryminalne Online
+https://pltv.uzis-room.ch/play/140
+#EXTINF:-1 tvg-id="TVP.Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://telewizjada.cc/logo/tvprozrywka.png" group-title="Rozrywkowe",TVP Rozrywka
+https://pltv.uzis-room.ch/play/141
+#EXTINF:-1 tvg-id="BBC.Brit.pl" tvg-name="BBC Brit" tvg-logo="https://telewizjada.cc/logo/bbcbrit.png" group-title="Rozrywkowe",BBC Brit
+https://pltv.uzis-room.ch/play/142
+#EXTINF:-1 tvg-id="CANAL+.DOMO.pl" tvg-name="Canal+ Domo" tvg-logo="https://telewizjada.cc/logo/canaldomo.png" group-title="Rozrywkowe",Canal+ Domo
+https://pltv.uzis-room.ch/play/143
+#EXTINF:-1 tvg-id="CANAL+.KUCHNIA.pl" tvg-name="Canal+ Kuchnia" tvg-logo="https://telewizjada.cc/logo/canalkuchnia.png" group-title="Rozrywkowe",Canal+ Kuchnia
+https://pltv.uzis-room.ch/play/144
+#EXTINF:-1 tvg-id="TVN.Turbo.pl" tvg-name="TVN Turbo" tvg-logo="https://telewizjada.cc/logo/tvnturbo.png" group-title="Rozrywkowe",TVN Turbo
+https://pltv.uzis-room.ch/play/145
+#EXTINF:-1 tvg-id="BBC.Lifestyle.pl" tvg-name="BBC Lifestyle" tvg-logo="https://telewizjada.cc/logo/bbclifestyle.png" group-title="Rozrywkowe",BBC Lifestyle
+https://pltv.uzis-room.ch/play/146
+#EXTINF:-1 tvg-id="CBS.Reality.pl" tvg-name="CBS Reality" tvg-logo="https://telewizjada.cc/logo/cbsreality.png" group-title="Rozrywkowe",CBS Reality
+https://pltv.uzis-room.ch/play/147
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV" tvg-logo="https://telewizjada.cc/logo/hgtv.png" group-title="Rozrywkowe",HGTV
+https://pltv.uzis-room.ch/play/148
+#EXTINF:-1 tvg-id="Discovery.Life.pl" tvg-name="Discovery Life" tvg-logo="https://telewizjada.cc/logo/discoverylife.png" group-title="Rozrywkowe",Discovery Life
+https://pltv.uzis-room.ch/play/149
+#EXTINF:-1 tvg-id="E!.Entertainment.pl" tvg-name="E" tvg-logo="https://telewizjada.cc/logo/e.png" group-title="Rozrywkowe",E
+https://pltv.uzis-room.ch/play/150
+#EXTINF:-1 tvg-id="HOME.TV.pl" tvg-name="Home TV" tvg-logo="https://telewizjada.cc/logo/hometv.png" group-title="Rozrywkowe",Home TV
+https://pltv.uzis-room.ch/play/151
+#EXTINF:-1 tvg-name="Outdoor TV" tvg-logo="https://telewizjada.cc/logo/outdoortv.png" group-title="Rozrywkowe",Outdoor TV
+https://pltv.uzis-room.ch/play/152
+#EXTINF:-1 tvg-id="Kabaret.TV.pl" tvg-name="Kabaret TV" tvg-logo="https://telewizjada.cc/logo/kabarettv.png" group-title="Rozrywkowe",Kabaret TV
+https://pltv.uzis-room.ch/play/153
+#EXTINF:-1 tvg-id="StudioMED.TV.pl" tvg-name="Studiomed" tvg-logo="https://telewizjada.cc/logo/studiomed.png" group-title="Rozrywkowe",Studiomed
+https://pltv.uzis-room.ch/play/154
+#EXTINF:-1 tvg-id="Food.Network.pl" tvg-name="Food Network" tvg-logo="https://telewizjada.cc/logo/foodnetwork.png" group-title="Rozrywkowe",Food Network
+https://pltv.uzis-room.ch/play/155
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC" tvg-logo="https://telewizjada.cc/logo/tlc.png" group-title="Rozrywkowe",TLC
+https://pltv.uzis-room.ch/play/156
+#EXTINF:-1 tvg-id="Travel.Channel.pl" tvg-name="Travel Channel" tvg-logo="https://telewizjada.cc/logo/travelchannel.png" group-title="Rozrywkowe",Travel Channel
+https://pltv.uzis-room.ch/play/157
+#EXTINF:-1 tvg-id="TVN.Style.pl" tvg-name="TVN Style" tvg-logo="https://telewizjada.cc/logo/tvnstyle.png" group-title="Rozrywkowe",TVN Style
+https://pltv.uzis-room.ch/play/158
+#EXTINF:-1 tvg-name="Pogoda24TV" tvg-logo="https://telewizjada.cc/logo/Pogoda24TV.png" group-title="Rozrywkowe",Pogoda24TV
+https://pltv.uzis-room.ch/play/159
+#EXTINF:-1 tvg-id="Polsat.Café.pl" tvg-name="Polsat Cafe" tvg-logo="https://telewizjada.cc/logo/polsatcafe.png" group-title="Rozrywkowe",Polsat Cafe
+https://pltv.uzis-room.ch/play/160
+#EXTINF:-1 tvg-id="Polsat.Play.pl" tvg-name="Polsat Play" tvg-logo="https://telewizjada.cc/logo/polsatplay.png" group-title="Rozrywkowe",Polsat Play
+https://pltv.uzis-room.ch/play/161
+#EXTINF:-1 tvg-name="Polsat Reality" tvg-logo="https://telewizjada.cc/logo/polsatreality.png" group-title="Rozrywkowe",Polsat Reality
+https://pltv.uzis-room.ch/play/162
+#EXTINF:-1 tvg-id="Polsat.Games.pl" tvg-name="Polsat Games" tvg-logo="https://epg.ovh/logo/Polsat+Games.png" group-title="Rozrywkowe",Polsat Games
+https://pltv.uzis-room.ch/play/163
+#EXTINF:-1 tvg-name="Vidoc" tvg-logo="https://telewizjada.cc/logo/vidoc.png" group-title="Rozrywkowe",Vidoc
+https://pltv.uzis-room.ch/play/164
+#EXTINF:-1 tvg-id="Gametoon.HD.pl" tvg-name="Gametoon" tvg-logo="https://telewizjada.cc/logo/gametoon.png" group-title="Rozrywkowe",Gametoon
+https://pltv.uzis-room.ch/play/165
+#EXTINF:-1 tvg-id="MTV.Polska.pl" tvg-name="MTV" tvg-logo="https://telewizjada.cc/logo/mtv.png" group-title="Rozrywkowe",MTV
+https://pltv.uzis-room.ch/play/166
+#EXTINF:-1 tvg-id="CANAL+.DOKUMENT.pl" tvg-name="Canal+ Dokument" tvg-logo="https://telewizjada.cc/logo/canalplusdokument.png" group-title="Naukowe",Canal+ Dokument
+https://pltv.uzis-room.ch/play/167
+#EXTINF:-1 tvg-id="TVP.Dokument.pl" tvg-name="TVP Dokument" tvg-logo="https://telewizjada.cc/logo/tvpdokument.png" group-title="Naukowe",TVP Dokument
+https://pltv.uzis-room.ch/play/168
+#EXTINF:-1 tvg-id="TVP.Historia.pl" tvg-name="TVP Historia" tvg-logo="https://telewizjada.cc/logo/tvphistoria.png" group-title="Naukowe",TVP Historia
+https://pltv.uzis-room.ch/play/169
+#EXTINF:-1 tvg-name="TVP Historia 2" tvg-logo="https://telewizjada.cc/logo/tvphistoria2.png" group-title="Naukowe",TVP Historia 2
+https://pltv.uzis-room.ch/play/170
+#EXTINF:-1 tvg-id="Animal.Planet.pl" tvg-name="Animal Planet" tvg-logo="https://telewizjada.cc/logo/animalplanet.png" group-title="Naukowe",Animal Planet
+https://pltv.uzis-room.ch/play/171
+#EXTINF:-1 tvg-id="BBC.Earth.pl" tvg-name="BBC Earth" tvg-logo="https://telewizjada.cc/logo/bbcearth.png" group-title="Naukowe",BBC Earth
+https://pltv.uzis-room.ch/play/172
+#EXTINF:-1 tvg-id="Discovery.Channel.pl" tvg-name="Discovery" tvg-logo="https://telewizjada.cc/logo/discovery.png" group-title="Naukowe",Discovery
+https://pltv.uzis-room.ch/play/173
+#EXTINF:-1 tvg-id="Discovery.Historia.pl" tvg-name="Discovery Historia" tvg-logo="https://telewizjada.cc/logo/discoveryhistoria.png" group-title="Naukowe",Discovery Historia
+https://pltv.uzis-room.ch/play/174
+#EXTINF:-1 tvg-id="Discovery.Science.pl" tvg-name="Discovery Science" tvg-logo="https://telewizjada.cc/logo/discoveryscience.png" group-title="Naukowe",Discovery Science
+https://pltv.uzis-room.ch/play/175
+#EXTINF:-1 tvg-id="DTX.pl" tvg-name="DTX" tvg-logo="https://telewizjada.cc/logo/dtx.png" group-title="Naukowe",DTX
+https://pltv.uzis-room.ch/play/176
+#EXTINF:-1 tvg-id="ID.pl" tvg-name="Investigation Discovery" tvg-logo="https://telewizjada.cc/logo/investigationdiscovery.png" group-title="Naukowe",Investigation Discovery
+https://pltv.uzis-room.ch/play/177
+#EXTINF:-1 tvg-id="Fokus.TV.pl" tvg-name="Fokus TV" tvg-logo="https://telewizjada.cc/logo/fokustv.png" group-title="Naukowe",Fokus TV
+https://pltv.uzis-room.ch/play/178
+#EXTINF:-1 tvg-id="HISTORY.pl" tvg-name="History" tvg-logo="https://telewizjada.cc/logo/history.png" group-title="Naukowe",History
+https://pltv.uzis-room.ch/play/179
+#EXTINF:-1 tvg-id="HISTORY2.pl" tvg-name="History 2" tvg-logo="https://telewizjada.cc/logo/history2.png" group-title="Naukowe",History 2
+https://pltv.uzis-room.ch/play/180
+#EXTINF:-1 tvg-id="National.Geographic.Wild.pl" tvg-name="Nat Geo Wild" tvg-logo="https://telewizjada.cc/logo/natgeowild.png" group-title="Naukowe",Nat Geo Wild
+https://pltv.uzis-room.ch/play/181
+#EXTINF:-1 tvg-id="National.Geographic.pl" tvg-name="National Geographic" tvg-logo="https://telewizjada.cc/logo/nationalgeographic.png" group-title="Naukowe",National Geographic
+https://pltv.uzis-room.ch/play/182
+#EXTINF:-1 tvg-id="Planete+.pl" tvg-name="Planete" tvg-logo="https://telewizjada.cc/logo/planete.png" group-title="Naukowe",Planete
+https://pltv.uzis-room.ch/play/183
+#EXTINF:-1 tvg-id="Nat.Geo.People.pl" tvg-name="Nat Geo People" tvg-logo="https://telewizjada.cc/logo/natgeopeople.png" group-title="Naukowe",Nat Geo People
+https://pltv.uzis-room.ch/play/184
+#EXTINF:-1 tvg-id="CI.Polsat.pl" tvg-name="Polsat CI" tvg-logo="https://telewizjada.cc/logo/polsatci.png" group-title="Naukowe",Polsat CI
+https://pltv.uzis-room.ch/play/185
+#EXTINF:-1 tvg-id="Polsat.Viasat.History.HD.pl" tvg-name="Polsat Viasat History" tvg-logo="https://telewizjada.cc/logo/polsatviasathistory.png" group-title="Naukowe",Polsat Viasat History
+https://pltv.uzis-room.ch/play/186
+#EXTINF:-1 tvg-id="Polsat.Viasat.Nature.HD.pl" tvg-name="Polsat Viasat Nature" tvg-logo="https://telewizjada.cc/logo/polsatviasatnature.png" group-title="Naukowe",Polsat Viasat Nature
+https://pltv.uzis-room.ch/play/187
+#EXTINF:-1 tvg-id="Polsat.Viasat.Explore.HD.pl" tvg-name="Polsat Viasat Explore" tvg-logo="https://telewizjada.cc/logo/polsatviasatexplore.png" group-title="Naukowe",Polsat Viasat Explore
+https://pltv.uzis-room.ch/play/188
+#EXTINF:-1 tvg-id="Polsat.Doku.pl" tvg-name="Polsat Doku" tvg-logo="https://telewizjada.cc/logo/polsatdoku.png" group-title="Naukowe",Polsat Doku
+https://pltv.uzis-room.ch/play/189
+#EXTINF:-1 tvg-name="Polsat X" tvg-logo="https://telewizjada.cc/logo/polsatx.png" group-title="Naukowe",Polsat X
+https://pltv.uzis-room.ch/play/190
+#EXTINF:-1 tvg-name="Viasat Explore Classic" tvg-logo="https://telewizjada.cc/logo/viasatexploreclassic.png" group-title="Naukowe",Viasat Explore Classic
+https://pltv.uzis-room.ch/play/191
+#EXTINF:-1 tvg-name="Viasat True Crime" tvg-logo="https://telewizjada.cc/logo/viasattruecrime.png" group-title="Naukowe",Viasat True Crime
+https://pltv.uzis-room.ch/play/192
+#EXTINF:-1 tvg-id="Water.Planet.HD.pl" tvg-name="Water Planet" tvg-logo="https://telewizjada.cc/logo/waterplanet.png" group-title="Naukowe",Water Planet
+https://pltv.uzis-room.ch/play/193
+#EXTINF:-1 tvg-id="DocuBox.pl" tvg-name="Docubox" tvg-logo="https://telewizjada.cc/logo/docubox.png" group-title="Naukowe",Docubox
+https://pltv.uzis-room.ch/play/194
+#EXTINF:-1 tvg-id="Polsat.Music.pl" tvg-name="Polsat Music" tvg-logo="https://telewizjada.cc/logo/polsatmusic.png" group-title="Muzyczne",Polsat Music
+https://pltv.uzis-room.ch/play/195
+#EXTINF:-1 tvg-id="Disco.Polo.Music.pl" tvg-name="Disco Polo Music" tvg-logo="https://telewizjada.cc/logo/discopolomusic.png" group-title="Muzyczne",Disco Polo Music
+https://pltv.uzis-room.ch/play/196
+#EXTINF:-1 tvg-id="Eska.TV.pl" tvg-name="Eska TV" tvg-logo="https://telewizjada.cc/logo/eskatv.png" group-title="Muzyczne",Eska TV
+https://pltv.uzis-room.ch/play/197
+#EXTINF:-1 tvg-id="Eska.TV.Extra.pl" tvg-name="Eska TV Extra" tvg-logo="https://telewizjada.cc/logo/eskatvextra.png" group-title="Muzyczne",Eska TV Extra
+https://pltv.uzis-room.ch/play/198
+#EXTINF:-1 tvg-id="Eska.Rock.TV.pl" tvg-name="Eska Rock" tvg-logo="https://telewizjada.cc/logo/eskarock.png" group-title="Muzyczne",Eska Rock
+https://pltv.uzis-room.ch/play/199
+#EXTINF:-1 tvg-id="Music.Box.pl" tvg-name="Music Box" tvg-logo="https://telewizjada.cc/logo/musicbox.png" group-title="Muzyczne",Music Box
+https://pltv.uzis-room.ch/play/200
+#EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-name="4fun" tvg-logo="https://telewizjada.cc/logo/4fun.png" group-title="Muzyczne",4fun
+https://pltv.uzis-room.ch/play/201
+#EXTINF:-1 tvg-id="Kino.Polska.Muzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="https://telewizjada.cc/logo/kinopolskamuzyka.png" group-title="Muzyczne",Kino Polska Muzyka
+https://pltv.uzis-room.ch/play/202
+#EXTINF:-1 tvg-id="Nuta.TV.pl" tvg-name="Nuta TV" tvg-logo="https://telewizjada.cc/logo/nutatv.png" group-title="Muzyczne",Nuta TV
+https://pltv.uzis-room.ch/play/203
+#EXTINF:-1 tvg-id="Nuta.Gold.pl" tvg-name="Nuta Gold" tvg-logo="https://telewizjada.cc/logo/nutagold.png" group-title="Muzyczne",Nuta Gold
+https://pltv.uzis-room.ch/play/204
+#EXTINF:-1 tvg-id="STARS.TV.pl" tvg-name="Stars TV" tvg-logo="https://telewizjada.cc/logo/starstv.png" group-title="Muzyczne",Stars TV
+https://pltv.uzis-room.ch/play/205
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://telewizjada.cc/logo/cartoonito.png" group-title="Dla Dzieci",Cartoonito
+https://pltv.uzis-room.ch/play/206
+#EXTINF:-1 tvg-id="Cartoon.Network.pl" tvg-name="Cartoon Network" tvg-logo="https://telewizjada.cc/logo/cartoonnetwork.png" group-title="Dla Dzieci",Cartoon Network
+https://pltv.uzis-room.ch/play/207
+#EXTINF:-1 tvg-id="Disney.Channel.pl" tvg-name="Disney Channel" tvg-logo="https://telewizjada.cc/logo/disneychannel.png" group-title="Dla Dzieci",Disney Channel
+https://pltv.uzis-room.ch/play/208
+#EXTINF:-1 tvg-id="Disney.Junior.pl" tvg-name="Disney Junior" tvg-logo="https://telewizjada.cc/logo/disneyjunior.png" group-title="Dla Dzieci",Disney Junior
+https://pltv.uzis-room.ch/play/209
+#EXTINF:-1 tvg-id="Disney.XD.pl" tvg-name="Disney XD" tvg-logo="https://telewizjada.cc/logo/disneyxd.png" group-title="Dla Dzieci",Disney XD
+https://pltv.uzis-room.ch/play/210
+#EXTINF:-1 tvg-id="MiniMini+.pl" tvg-name="Minimini" tvg-logo="https://telewizjada.cc/logo/minimini.png" group-title="Dla Dzieci",Minimini
+https://pltv.uzis-room.ch/play/211
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" tvg-logo="https://telewizjada.cc/logo/nickelodeon.png" group-title="Dla Dzieci",Nickelodeon
+https://pltv.uzis-room.ch/play/212
+#EXTINF:-1 tvg-id="Nick.Jr..pl" tvg-name="Nick Jr" tvg-logo="https://telewizjada.cc/logo/nickjr.png" group-title="Dla Dzieci",Nick Jr
+https://pltv.uzis-room.ch/play/213
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" tvg-logo="https://telewizjada.cc/logo/nicktoons.png" group-title="Dla Dzieci",Nicktoons
+https://pltv.uzis-room.ch/play/214
+#EXTINF:-1 tvg-id="TVP.ABC.pl" tvg-name="TVP ABC" tvg-logo="https://telewizjada.cc/logo/tvpabc.png" group-title="Dla Dzieci",TVP ABC
+https://pltv.uzis-room.ch/play/215
+#EXTINF:-1 tvg-name="TVP ABC 2" tvg-logo="https://telewizjada.cc/logo/tvpabc2.png" group-title="Dla Dzieci",TVP ABC 2
+https://pltv.uzis-room.ch/play/216
+#EXTINF:-1 tvg-name="Alfa TVP" tvg-logo="https://telewizjada.cc/logo/alfatvp.png" group-title="Dla Dzieci",Alfa TVP
+https://pltv.uzis-room.ch/play/217
+#EXTINF:-1 tvg-id="Polsat.JimJam.pl" tvg-name="Polsat JimJam" tvg-logo="https://telewizjada.cc/logo/polsatjimjam.png" group-title="Dla Dzieci",Polsat JimJam
+https://pltv.uzis-room.ch/play/218
+#EXTINF:-1 tvg-id="teleTOON+.pl" tvg-name="Teletoon" tvg-logo="https://telewizjada.cc/logo/teletoon.png" group-title="Dla Dzieci",Teletoon
+https://pltv.uzis-room.ch/play/219
+#EXTINF:-1 tvg-id="BBC.CBeebies.pl" tvg-name="BBC Cbeebies" tvg-logo="https://telewizjada.cc/logo/bbccbeebies.png" group-title="Dla Dzieci",BBC Cbeebies
+https://pltv.uzis-room.ch/play/220
+#EXTINF:-1 tvg-id="Da.Vinci.pl" tvg-name="Da Vinci Learning" tvg-logo="https://telewizjada.cc/logo/davincilearning.png" group-title="Dla Dzieci",Da Vinci Learning
+https://pltv.uzis-room.ch/play/221
+#EXTINF:-1 tvg-id="Top.Kids.pl" tvg-name="Topkids" tvg-logo="https://telewizjada.cc/logo/topkids.png" group-title="Dla Dzieci",Topkids
+https://pltv.uzis-room.ch/play/222
+#EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-name="Polsat Film" tvg-logo="https://telewizjada.cc/logo/polsatfilm.png" group-title="Filmowe",Polsat Film
+https://pltv.uzis-room.ch/play/223
+#EXTINF:-1 tvg-name="Polsat Film 2" tvg-logo="https://telewizjada.cc/logo/polsatfilm2.png" group-title="Filmowe",Polsat Film 2
+https://pltv.uzis-room.ch/play/224
